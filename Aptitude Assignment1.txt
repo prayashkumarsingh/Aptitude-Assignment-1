@@ -1,0 +1,74 @@
+Q1-ANS
+
+
+The equations of the lines x=2 and y=4 are both vertical and horizontal lines, respectively. These lines intersect at a single point, which is the point (2, 4).
+
+
+
+
+
+Q2-ANS
+
+To determine the number of solutions for the system of equations:
+
+2X + 3Y = 9
+7X + 9Y = -6
+
+We can use the concept of the determinant of a matrix. If the determinant is non-zero, the system has a unique solution. If the determinant is zero, the system has either no solution or infinitely many solutions.
+
+To find the determinant, we set up the matrix:
+
+| 2 3 |
+| 7 9 |
+
+The determinant is calculated as follows: determinant = (2 * 9) - (3 * 7) = 18 - 21 = -3.
+
+Since the determinant is non-zero (-3 ≠ 0), the system of equations has a unique solution. Therefore, these two equations intersect at a single point in the x-y plane.
+
+
+
+
+Q3-ANS
+
+7x + 9y = -5
+
+To determine the number of solutions, we need more than just one equation. A single equation with two variables can have infinitely many solutions.
+
+
+
+
+Q4-ANS
+
+If the coefficients of the quadratic equation ax^2 + bx + c = 0 are all zero (a = b = c = 0), then the equation becomes 0x^2 + 0x + 0 = 0, which simplifies to 0 = 0.
+
+In this case, the equation is an identity rather than a specific equation with variables. It means that any value of x will satisfy the equation, as both sides are always equal.
+
+So The equation ax^2+bx+c=0 will be true for a=b=c=0.
+
+
+
+
+
+Q5-ANS
+
+Let's assume the income of person A is 2x, and the income of person B is 3x. Here, x represents a common factor for the income ratio.
+
+According to the given information, if B's income is Rs 3000, we can set up the following equation:
+
+3x = 3000
+
+Solving this equation, we find that x = 1000. Therefore, person A's income (2x) is 2 * 1000 = Rs 2000.
+
+Now, let's consider their savings. Person A's savings are Rs 500, and person B's savings are Rs 700.
+
+To find their expenditures, we subtract the savings from their respective incomes:
+
+Expenditure of person A = Income of person A - Savings of person A = Rs 2000 - Rs 500 = Rs 1500
+Expenditure of person B = Income of person B - Savings of person B = Rs 3000 - Rs 700 = Rs 2300
+
+The ratio of their expenditures is 1500:2300, which can be simplified by dividing both numbers by 100:
+
+Simplified ratio of their expenditures = 15:23
+
+Therefore, the ratio of their expenditures is 15:23.
+
